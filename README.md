@@ -8,3 +8,6 @@ Dr. Juan Carlos Gutierrez Caceres
 - Jhunior Chavez Cruz
 - Hayde Humpire Cutipa
 - Katerine Cruz Valdivia
+
+# Resultado
+![](Imagenes/plantita.gif) 
