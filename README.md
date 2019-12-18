@@ -9,9 +9,10 @@ Dr. Juan Carlos Gutierrez Caceres
 - Hayde Humpire Cutipa
 - Katerine Cruz Valdivia
 
-# Imagen de Prueba
-![bd_disponibles](Pruebas/bL5.jpg)
-![bd_disponibles](Pruebas/bR5.jpg)
-
 # Resultado
 ![](Resultados/plantita.gif) 
+
+# Imagen de Prueba
+![bd_disponibles](Pruebas/bL5.jpg)
+
+
