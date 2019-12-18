@@ -14,5 +14,6 @@ Dr. Juan Carlos Gutierrez Caceres
 
 # Imagen de Prueba
 ![bd_disponibles](Pruebas/bR5_opt.jpg)
+![bd_disponibles](Pruebas/bL5_opt.jpg)
 
 
