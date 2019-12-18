@@ -13,6 +13,6 @@ Dr. Juan Carlos Gutierrez Caceres
 ![](Resultados/plantita.gif) 
 
 # Imagen de Prueba
-![bd_disponibles](Pruebas/bL5.jpg)
+![bd_disponibles](Pruebas/bR5_opt.jpg)
 
 
