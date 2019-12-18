@@ -10,8 +10,8 @@ Dr. Juan Carlos Gutierrez Caceres
 - Katerine Cruz Valdivia
 
 # Imagen de Prueba
-![bd_disponibles](Pruebas/bL5.png)
-![bd_disponibles](Pruebas/bR5.png)
+![bd_disponibles](Pruebas/bL5.jpg)
+![bd_disponibles](Pruebas/bR5.jpg)
 
 # Resultado
 ![](Resultados/plantita.gif) 
