@@ -37,4 +37,5 @@ Dr. Juan Carlos Gutierrez Caceres
 ![bd_disponibles](Pruebas/bL.jpg)
 
 #### Salida
+![](Resultados/webgame.gif) 
 
