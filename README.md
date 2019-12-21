@@ -14,10 +14,15 @@ Dr. Juan Carlos Gutierrez Caceres
 - Entrada: 2 o más imágenes en distintos ángulos del mismo objeto
 - Salida: Malla a partir de nube de puntos (molde 3D), previo análisis de keypoints, matching, triangulación
 
+## Requisitos
+- OpenCV 3.2.x
+- MeshLab
+
 ## Compilación y ejecución
 ```
 $ g++ main.cpp -o output `pkg-config --cflags --libs opencv`
 $ ./output
+$ meshlab export.obj
 ```
 ## Pruebas
 
