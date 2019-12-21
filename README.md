@@ -16,7 +16,7 @@ Dr. Juan Carlos Gutierrez Caceres
 
 ## Compilación y ejecución
 ```
-$ g++ grafica.cpp -o output `pkg-config --cflags --libs opencv`
+$ g++ main.cpp -o output `pkg-config --cflags --libs opencv`
 $ ./output
 ```
 ## Pruebas
