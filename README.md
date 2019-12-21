@@ -14,6 +14,11 @@ Dr. Juan Carlos Gutierrez Caceres
 - Entrada: 2 o más imágenes en distintos ángulos del mismo objeto
 - Salida: Malla a partir de nube de puntos (molde 3D), previo análisis de keypoints, matching, triangulación
 
+## Compilación y ejecución
+```
+$ g++ grafica.cpp -o output `pkg-config --cflags --libs opencv`
+$ ./output
+```
 ## Pruebas
 
 ### Prueba 1 (Imagen vía web)
@@ -30,12 +35,21 @@ Dr. Juan Carlos Gutierrez Caceres
 ![bd_disponibles](Pruebas/bL3.jpg)
 
 #### Salida
+![bd_disponibles](Resultados/manito.gif)
 
-### Prueba 3 (Fotos vía web)
+### Prueba 3 (Fotos via celular)
+#### Entrada 
+![bd_disponibles](Pruebas/bL7.jpg)
+![bd_disponibles](Pruebas/bR7.jpg)
+#### Salida
+![bd_disponibles](Resultados/botella.gif)
+
+### Prueba 4 (Fotos vía web)
 #### Entrada
 ![bd_disponibles](Pruebas/bR.jpg)
 ![bd_disponibles](Pruebas/bL.jpg)
 
 #### Salida
 ![](Resultados/webgame.gif) 
+
 
